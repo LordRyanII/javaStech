@@ -1,0 +1,16 @@
+.footer{
+    background-color: gray;
+    height: 200px;
+}
+
+.footer > h1{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.footer > p{
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}

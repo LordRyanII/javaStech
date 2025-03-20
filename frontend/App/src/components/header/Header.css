@@ -1,0 +1,23 @@
+header {
+  background-image: url("../../assets/image/coffeeBackground.jpg");
+  background-repeat: no-repeat;
+  background-position: 80px;
+  background-position: center;
+  background-size: cover;
+  height: 280px;
+}
+header > h1 {
+  color: gray;
+  font-style: oblique;
+  font-weight: bold;
+  padding: 50px;
+  font-size: 60px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+header > p {
+  color: white;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

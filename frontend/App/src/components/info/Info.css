@@ -1,0 +1,25 @@
+.infoEmpresa {
+  background-color: black;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.descricoes {
+  max-width: 600px;
+  width: 100%;
+}
+
+.descricoes > h1 {
+  color: rgb(252, 231, 3);
+  padding: 20px;
+  font-size: 35px;
+}
+
+.descricoes > p {
+  color: white;
+  
+  font-size: 12px;
+}
